@@ -1,0 +1,6 @@
+{
+  "rpcUrl": "https://evmrpc-testnet.0g.ai/",
+  "chainId": 16601,
+  "cycleCount": 1,
+  "enableTokenRecovery": true
+}
